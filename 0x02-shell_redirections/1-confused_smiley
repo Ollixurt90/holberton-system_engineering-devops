@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("\u263A\n")
+printf("\1F615\n")
