@@ -1,2 +1,2 @@
 #!/bin/bash
-del .js
+echo cd | del .js
