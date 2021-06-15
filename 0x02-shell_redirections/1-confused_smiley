@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "\1F615\n"
+echo -e  "\"(Ôo)'"
