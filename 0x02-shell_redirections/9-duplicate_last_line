@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat tail lasline iacta >> newfile
+echo cat -1 iacta >> newfile -1
