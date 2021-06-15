@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat cd | rm *.js
+cat cd | echo rm *.js
