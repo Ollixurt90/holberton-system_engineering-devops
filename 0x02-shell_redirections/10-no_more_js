@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat cd | echo rm *.js
+echo del *.js
