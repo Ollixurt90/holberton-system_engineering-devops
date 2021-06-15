@@ -1,2 +1,2 @@
 #!/bin/bash
-echo cat -1 iacta >> newfile -1
+echo cat tail -1 iacta >> newfile -1
