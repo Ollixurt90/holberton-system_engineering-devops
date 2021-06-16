@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld /etc
+-ld /etc
