@@ -1,2 +1,2 @@
 #!/bin/bash
-rm --.js **/**.o
+shopt -s globstar rm -r .js **/*.o
